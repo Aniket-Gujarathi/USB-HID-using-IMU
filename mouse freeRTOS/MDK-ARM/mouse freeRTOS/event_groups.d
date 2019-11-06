@@ -1,0 +1,16 @@
+mouse freertos\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+mouse freertos\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+mouse freertos\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+mouse freertos\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+mouse freertos\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+mouse freertos\event_groups.o: ../Inc/FreeRTOSConfig.h
+mouse freertos\event_groups.o: ../Inc/main.h
+mouse freertos\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+mouse freertos\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+mouse freertos\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+mouse freertos\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+mouse freertos\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+mouse freertos\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+mouse freertos\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+mouse freertos\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+mouse freertos\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
